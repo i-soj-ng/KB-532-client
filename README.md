@@ -2,6 +2,7 @@
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/3fa06efd-e195-4d39-b1cb-68aa29825724" />
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/0d4b7253-1800-498f-bf82-77f88d35adbe" />
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/5c4f36a4-c8b6-44ee-9d87-50294d169ba6" />
+
 ## 📑서비스 기능
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/0456406d-3f83-4796-8cc7-dd5bbf221fe3" />
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/fc6b4626-cb2d-440a-aaa2-1a83b52ae05b" />
